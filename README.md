@@ -12,3 +12,4 @@
 - Fullmetal Alchemist: Edward Elric
 - Boruto: Boruto
 - Girl's Last Tour
+- JuJutsuKaisen : Yuji
