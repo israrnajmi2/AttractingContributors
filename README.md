@@ -9,5 +9,6 @@
 - One-piece: Chopper
 - CODE GEASS Lelouch of the Rebellion: Lelouch vi Britannia
 -One-piece: Chopper
+- Fullmetal Alchemist: Edward Elric
 - Boruto: Boruto
 - Girl's Last Tour
