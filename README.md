@@ -13,3 +13,4 @@
 - Boruto: Boruto
 - Girl's Last Tour
 - JuJutsuKaisen : Yuji
+- Hamutaro
