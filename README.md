@@ -20,5 +20,4 @@ What is your favourite sports?
 - soccer
 - Soccer
 - basketball
-- sepak takraw
 - football
